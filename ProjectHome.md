@@ -1,0 +1,1 @@
+Electronic Human Resource is web application for help HR Officer to manages employees informations. This project is a case study : Bfit securities public company(limited)
